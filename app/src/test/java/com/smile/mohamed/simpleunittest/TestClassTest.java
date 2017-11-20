@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  */
 public class TestClassTest {
     @Test
-    public void add() throws Exception {
+    public void addWithTwoNumberThenReturnAsFifteen() throws Exception {
         int input1=10;
         int input2=5;
         int excepected=15;
