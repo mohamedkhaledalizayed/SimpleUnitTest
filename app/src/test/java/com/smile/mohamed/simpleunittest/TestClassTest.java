@@ -19,7 +19,7 @@ public class TestClassTest {
     }
 
     @Test
-    public void sub() throws Exception {
+    public void subTwoNumberThenReturnResultAsFive() throws Exception {
         int input1=10;
         int input2=5;
         int excepected=5;
